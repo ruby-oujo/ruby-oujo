@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ruby-oujo
 - 👀 I’m interested in web development and app design
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything fun and exciting!
 - 📫 How to reach me @ruby.oujo@gmail.com
 
 <!---
