@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ruby
 - 👀 I’m interested in web development and app design
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on anything fun and exciting!
+- 🌱 I’m currently studying computer science
+- 💞️ I’m currently a software engineer intern!
 - 📫 How to reach me @ruby.oujo@gmail.com
 
 <!---
