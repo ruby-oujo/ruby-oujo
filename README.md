@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ruby
-- 👀 I’m interested in web development and app design
-- 🌱 I’m currently studying computer science
-- 💞️ I’m currently a software engineer intern!
+- 👀 I’m interested fullstack development.
+- 🌱 I studied computer science.
+- 💞️ I’m currently a software engineer at MongoDB. 
 - 📫 How to reach me @ruby.oujo@gmail.com
 
 <!---
